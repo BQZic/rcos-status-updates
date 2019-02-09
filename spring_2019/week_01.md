@@ -2,22 +2,22 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I met with Andrew to discuss goals for this semester. What we're going to work on first is to \
+> change the mapbox API to apple mapKit. I am going to focus on modifying routes and stops functions. I deleted part of \
+> the original ViewController code because it's using mapbox and modified the storyboard to mapkit. Also I added a few \
+> more files to split the functions -- functions for routes and functions for stops. 
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> Next week I'm going to focus on displaying the routes using polyline and stops using annotations. 
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> None. 
 
 ## Notes
 
